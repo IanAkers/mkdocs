@@ -1,0 +1,20 @@
+site_name: Grant Management
+theme: material
+extra:
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+  logo: 'images/DHS_logo.png'
+  font: false
+repo_name: 'Repository'
+repo_url: 'https://github.boozallencsn.com/JHT-ACCT-GROUP/bahgmm-docs'
+
+pages:
+  - Home: 'index.md'
+  - Features: features.md
+  - Dev Environment: dev-env.md
+
+markdown_extensions:
+  - admonition
+  - codehilite(guess_lang=false)
+  - toc(permalink=true)
