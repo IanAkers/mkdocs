@@ -8,7 +8,6 @@
 | bahgmm-svc-submit        |                  |               ||
 | bahgmm-svc-taskdata      |                  |               ||
 | bahgmm-svc-utility       |                  |               ||
-| bahgmm-svc-utility       |                  |               ||
 | bahgmm-svc-rules         |  `yes`           |               ||
 | **PIPELINE DEVELOPMENT** |                  |               ||
 | bahgmm-spring-pipeline   | `yes`            |               ||
@@ -16,8 +15,13 @@
 
 
 Other repositories
+
 bahgmm-bpmn -- ?
+
 bahgmm-kafka -- kafka demo services
+
 bahgmm-svc1-- ?
+
 bahgmm-templates -- repository holding service templates
+
 bahgmm-svc-utility -- ?
