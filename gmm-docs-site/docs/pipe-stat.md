@@ -8,7 +8,7 @@
 | bahgmm-svc-submit        |                  |               ||
 | bahgmm-svc-taskdata      |                  |               ||
 | bahgmm-svc-utility       |                  |               ||
-| bahgmm-svc-rules         |  `yes`           |               ||
+| bahgmm-svc-rules         |  `yes`           |    `yes`      ||
 | **PIPELINE DEVELOPMENT** |                  |               ||
 | bahgmm-spring-pipeline   | `yes`            |               ||
 | bahgmm-node-pipeline     |                  |               ||
