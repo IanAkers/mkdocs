@@ -9,7 +9,7 @@
 | bahgmm-svc-taskdata      |                  |               ||
 | bahgmm-svc-utility       |                  |               ||
 | bahgmm-svc-utility       |                  |               ||
-| bahgmm-svc-rules         |                  |               ||
+| bahgmm-svc-rules         |  `yes`           |               ||
 | **PIPELINE DEVELOPMENT** |                  |               ||
 | bahgmm-spring-pipeline   | `yes`            |               ||
 | bahgmm-node-pipeline     |                  |               ||
