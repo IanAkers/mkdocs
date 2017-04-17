@@ -1,6 +1,5 @@
 # Services Dashboard
 
-
 ## Deployment
 
 | Services                 | Declarative Pipeline | Dev      | Test     | Pre-Prod |
@@ -20,23 +19,37 @@
 
 ## Pipeline Test Stages
 
-| Services                 | Lint | Unit      | Functional |Integration    | End-to-End |
-| ------------------------ | -------------- | -------- | -------- | -------- | -------- |
-| bahgmm-svc-activiti      | ``             | `legacy` ||
-| bahgmm-svc-application   | ``             | `legacy` ||
-| bahgmm-ui                | ``             | `legacy` ||
+| Services                 | Unit | Lint | Coverage | Functional/UI | Integration | End-to-End | 508 |
+| ------------------------ | ---- | -------- | -------- | -------- | -------- | -- | -- |
+| bahgmm-svc-activiti      |      || ||
+| bahgmm-svc-application   |             |  ||
+| bahgmm-ui                |              |  ||
 | bahgmm-svc-config        |                  |               ||
 | bahgmm-svc-data          |                  |               ||
 | bahgmm-svc-submit        |                  |               ||
 | bahgmm-svc-taskdata      |                  |               ||
 | bahgmm-svc-utility       |                  |               ||
-| bahgmm-svc-rules         | `yes`           |               ||
+| bahgmm-svc-rules         |             |               ||
 | **PIPELINE DEVELOPMENT** |                  |               ||
-| bahgmm-spring-pipeline   | `yes`            |               ||
+| bahgmm-spring-pipeline   |             | `yes`              ||
 | bahgmm-node-pipeline     |                  |               ||
 
 ## Pipeline Security Stages
 
+| Services                 | Code Scan | Container Image | Endpoint | DB | UI Crawler|
+| ------------------------ | -------------- | -------- | -------- | -------- |---- |
+| bahgmm-svc-activiti      |              |  |||
+| bahgmm-svc-application   |              |  |||
+| bahgmm-ui                |             |  |||
+| bahgmm-svc-config        |                  |               ||
+| bahgmm-svc-data          |                  |               ||
+| bahgmm-svc-submit        |                  |               ||
+| bahgmm-svc-taskdata      |                  |               ||
+| bahgmm-svc-utility       |                  |               ||
+| bahgmm-svc-rules         |             |               ||
+| **PIPELINE DEVELOPMENT** |                  |               ||
+| bahgmm-spring-pipeline   | `yes`            |               ||
+| bahgmm-node-pipeline     |                  |               ||
 
 Other repositories
 
