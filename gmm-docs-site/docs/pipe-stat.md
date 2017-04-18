@@ -6,7 +6,7 @@
 | bahgmm-svc-application   |                  |               ||
 | bahgmm-svc-data          |                  |               ||
 | bahgmm-svc-submit        |                  |               ||
-| bahgmm-svc-taskdata      |                  |               ||
+| bahgmm-svc-taskdata      |   `yes`          |   `yes`       ||
 | bahgmm-svc-utility       |                  |               ||
 | bahgmm-svc-rules         |  `yes`           |    `yes`      ||
 | **PIPELINE DEVELOPMENT** |                  |               ||
