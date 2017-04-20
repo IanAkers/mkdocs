@@ -197,10 +197,53 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
     
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        Pipeline Status
+      </label>
     
     <a href="./" title="Pipeline Status" class="md-nav__link md-nav__link--active">
       Pipeline Status
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#deployment" title="Deployment" class="md-nav__link">
+    Deployment
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pipeline-test-stages" title="Pipeline Test Stages" class="md-nav__link">
+    Pipeline Test Stages
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pipeline-security-stages" title="Pipeline Security Stages" class="md-nav__link">
+    Pipeline Security Stages
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -243,6 +286,36 @@
 <nav class="md-nav md-nav--secondary">
   
   
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#deployment" title="Deployment" class="md-nav__link">
+    Deployment
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pipeline-test-stages" title="Pipeline Test Stages" class="md-nav__link">
+    Pipeline Test Stages
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pipeline-security-stages" title="Pipeline Security Stages" class="md-nav__link">
+    Pipeline Security Stages
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
   
 </nav>
                   </div>
@@ -255,63 +328,63 @@
               
                 
                 
-                  <h1>Pipeline Status</h1>
-                
-                <table>
+                <h1 id="services-dashboard">Services Dashboard<a class="headerlink" href="#services-dashboard" title="Permanent link">&para;</a></h1>
+<h2 id="deployment">Deployment<a class="headerlink" href="#deployment" title="Permanent link">&para;</a></h2>
+<table>
 <thead>
 <tr>
 <th>Services</th>
-<th>Declarative Pipe</th>
-<th>OS Deployment</th>
-<th>Unit Tests</th>
-<th>Code Coverage</th>
+<th>Declarative Pipeline</th>
+<th>Dev</th>
+<th>Test</th>
+<th>Pre-Prod</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>ACTIVE</strong></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>bahgmm-svc-activiti</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>bahgmm-svc-config</td>
-<td></td>
-<td></td>
+<td><code>legacy</code></td>
+<td><code>legacy</code></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>bahgmm-svc-application</td>
+<td><code>legacy</code></td>
+<td><code>legacy</code></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td>bahgmm-ui</td>
+<td><code>legacy</code></td>
+<td><code>legacy</code></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>bahgmm-svc-data</td>
+<td><code>yes</code></td>
+<td><code>yes</code></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-rules</td>
+<td><code>yes</code></td>
+<td><code>yes</code></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>bahgmm-svc-submit</td>
-<td></td>
-<td></td>
+<td><code>yes</code></td>
+<td><code>yes</code></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>bahgmm-svc-taskdata</td>
+<td>bahgmm-svc-config</td>
 <td><code>yes</code></td>
 <td><code>yes</code></td>
 <td></td>
@@ -325,7 +398,7 @@
 <td></td>
 </tr>
 <tr>
-<td>bahgmm-svc-rules</td>
+<td>bahgmm-svc-taskdata</td>
 <td><code>yes</code></td>
 <td><code>yes</code></td>
 <td></td>
@@ -341,7 +414,7 @@
 <tr>
 <td>bahgmm-spring-pipeline</td>
 <td><code>yes</code></td>
-<td></td>
+<td><code>yes</code></td>
 <td></td>
 <td></td>
 </tr>
@@ -354,12 +427,259 @@
 </tr>
 </tbody>
 </table>
+<h2 id="pipeline-test-stages">Pipeline Test Stages<a class="headerlink" href="#pipeline-test-stages" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Services</th>
+<th>Unit</th>
+<th>Lint</th>
+<th>Coverage</th>
+<th>Functional/UI</th>
+<th>Integration</th>
+<th>End-to-End</th>
+<th>508</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>bahgmm-svc-activiti</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-application</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-ui</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-config</td>
+<td><code>yes</code></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-data</td>
+<td><code>yes</code></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-submit</td>
+<td><code>yes</code></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-taskdata</td>
+<td><code>yes</code></td>
+<td><code>yes</code></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-utility</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-rules</td>
+<td><code>yes</code></td>
+<td><code>yes</code></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>PIPELINE DEVELOPMENT</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-spring-pipeline</td>
+<td><code>yes</code></td>
+<td><code>yes</code></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-node-pipeline</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="pipeline-security-stages">Pipeline Security Stages<a class="headerlink" href="#pipeline-security-stages" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Services</th>
+<th>Code Scan</th>
+<th>Container Image</th>
+<th>Endpoint</th>
+<th>DB</th>
+<th>UI Crawler</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>bahgmm-svc-activiti</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-application</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-ui</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-config</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-data</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-submit</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-taskdata</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-utility</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-svc-rules</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>PIPELINE DEVELOPMENT</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-spring-pipeline</td>
+<td><code>yes</code></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bahgmm-node-pipeline</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <p>Other repositories</p>
-<p>bahgmm-bpmn -- ?</p>
-<p>bahgmm-kafka -- kafka demo services</p>
-<p>bahgmm-svc1-- ?</p>
-<p>bahgmm-templates -- repository holding service templates</p>
-<p>bahgmm-svc-utility -- ?</p>
+<p>bahgmm-bpmn -- ?<br />
+bahgmm-kafka -- kafka demo services<br />
+bahgmm-svc1-- ? <br />
+bahgmm-templates -- repository holding service templates  </p>
                 
                   
                 

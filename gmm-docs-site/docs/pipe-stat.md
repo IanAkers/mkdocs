@@ -24,14 +24,14 @@
 | bahgmm-svc-activiti      |      || ||
 | bahgmm-svc-application   |             |  ||
 | bahgmm-ui                |              |  ||
-| bahgmm-svc-config        |                  |               ||
-| bahgmm-svc-data          |                  |               ||
-| bahgmm-svc-submit        |                  |               ||
+| bahgmm-svc-config        |   `yes`          |               ||
+| bahgmm-svc-data          |   `yes`          |               ||
+| bahgmm-svc-submit        |   `yes`          |               ||
 | bahgmm-svc-taskdata      |   `yes`          |   `yes`       ||
 | bahgmm-svc-utility       |                  |               ||
 | bahgmm-svc-rules         |  `yes`           |    `yes`      ||
 | **PIPELINE DEVELOPMENT** |                  |               ||
-| bahgmm-spring-pipeline   |             | `yes`              ||
+| bahgmm-spring-pipeline   |    `yes`         | `yes`              ||
 | bahgmm-node-pipeline     |                  |               ||
 
 ## Pipeline Security Stages
