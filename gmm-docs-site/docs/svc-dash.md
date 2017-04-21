@@ -1,4 +1,4 @@
-# Services Dashboard
+# Service Dashboard
 
 ## Deployment
 
@@ -7,12 +7,12 @@
 | bahgmm-svc-activiti      | `legacy`             | `legacy` ||
 | bahgmm-svc-application   | `legacy`             | `legacy` ||
 | bahgmm-ui                | `legacy`             | `legacy` ||
-| bahgmm-svc-data          | `yes`                | `yes`    ||
-| bahgmm-svc-rules         | `yes`                | `yes`    ||
-| bahgmm-svc-submit        | `yes`                | `yes`    ||
 | bahgmm-svc-config        | `yes`                | `yes`    ||
-| bahgmm-svc-utility       |                      |          ||
+| bahgmm-svc-data          | `yes`                | `yes`    ||
+| bahgmm-svc-submit        | `yes`                | `yes`    ||
+| bahgmm-svc-rules         | `yes`                | `yes`    ||
 | bahgmm-svc-taskdata      | `yes`                | `yes`    ||
+| bahgmm-svc-utility       |                      |          ||
 | **PIPELINE DEVELOPMENT** ||||
 | bahgmm-spring-pipeline   | `yes`                | `yes`    ||
 | bahgmm-node-pipeline     |                      |          ||
@@ -24,12 +24,12 @@
 | bahgmm-svc-activiti      |      || ||
 | bahgmm-svc-application   |             |  ||
 | bahgmm-ui                |              |  ||
-| bahgmm-svc-config        |   `yes`          |               ||
-| bahgmm-svc-data          |   `yes`          |               ||
-| bahgmm-svc-submit        |   `yes`          |               ||
-| bahgmm-svc-taskdata      |   `yes`          |   `yes`       ||
+| bahgmm-svc-config        | `yes`|               ||
+| bahgmm-svc-data          | `yes`|               ||
+| bahgmm-svc-submit        | `yes`|               ||
+| bahgmm-svc-rules         | `yes`|      ||
+| bahgmm-svc-taskdata      | `yes`|    `yes`      |         ||
 | bahgmm-svc-utility       |                  |               ||
-| bahgmm-svc-rules         |  `yes`           |    `yes`      ||
 | **PIPELINE DEVELOPMENT** |                  |               ||
 | bahgmm-spring-pipeline   |    `yes`         | `yes`              ||
 | bahgmm-node-pipeline     |                  |               ||
@@ -44,9 +44,9 @@
 | bahgmm-svc-config        |                  |               ||
 | bahgmm-svc-data          |                  |               ||
 | bahgmm-svc-submit        |                  |               ||
+| bahgmm-svc-rules         |             |               ||
 | bahgmm-svc-taskdata      |                  |               ||
 | bahgmm-svc-utility       |                  |               ||
-| bahgmm-svc-rules         |             |               ||
 | **PIPELINE DEVELOPMENT** |                  |               ||
 | bahgmm-spring-pipeline   | `yes`            |               ||
 | bahgmm-node-pipeline     |                  |               ||

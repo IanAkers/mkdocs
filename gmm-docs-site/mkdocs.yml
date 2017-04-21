@@ -11,7 +11,7 @@ repo_url: 'https://github.boozallencsn.com/JHT-ACCT-GROUP/bahgmm-docs'
 
 pages:
   - Home: 'index.md'
-  - Pipeline Status: pipe-stat.md
+  - Service Dashboard: svc-dash.md
   - Features: features.md
   - Dev Environment: dev-env.md
 
