@@ -11,28 +11,28 @@
             "title": "Grant Management Modernization"
         }, 
         {
-            "location": "/pipe-stat/", 
-            "text": "Services Dashboard\n\n\nDeployment\n\n\n\n\n\n\n\n\nServices\n\n\nDeclarative Pipeline\n\n\nDev\n\n\nTest\n\n\nPre-Prod\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-activiti\n\n\nlegacy\n\n\nlegacy\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-application\n\n\nlegacy\n\n\nlegacy\n\n\n\n\n\n\n\n\n\n\nbahgmm-ui\n\n\nlegacy\n\n\nlegacy\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-data\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-rules\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-submit\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-config\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-utility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-taskdata\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\nPIPELINE DEVELOPMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-spring-pipeline\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\nbahgmm-node-pipeline\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPipeline Test Stages\n\n\n\n\n\n\n\n\nServices\n\n\nUnit\n\n\nLint\n\n\nCoverage\n\n\nFunctional/UI\n\n\nIntegration\n\n\nEnd-to-End\n\n\n508\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-activiti\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-application\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-ui\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-config\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-data\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-submit\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-taskdata\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-utility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-rules\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPIPELINE DEVELOPMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-spring-pipeline\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-node-pipeline\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPipeline Security Stages\n\n\n\n\n\n\n\n\nServices\n\n\nCode Scan\n\n\nContainer Image\n\n\nEndpoint\n\n\nDB\n\n\nUI Crawler\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-activiti\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-application\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-ui\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-config\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-submit\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-taskdata\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-utility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-rules\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPIPELINE DEVELOPMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-spring-pipeline\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-node-pipeline\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOther repositories\n\n\nbahgmm-bpmn -- ?\n\nbahgmm-kafka -- kafka demo services\n\nbahgmm-svc1-- ? \n\nbahgmm-templates -- repository holding service templates", 
-            "title": "Pipeline Status"
+            "location": "/svc-dash/", 
+            "text": "Service Dashboard\n\n\nDeployment\n\n\n\n\n\n\n\n\nServices\n\n\nDeclarative Pipeline\n\n\nDev\n\n\nTest\n\n\nPre-Prod\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-activiti\n\n\nlegacy\n\n\nlegacy\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-application\n\n\nlegacy\n\n\nlegacy\n\n\n\n\n\n\n\n\n\n\nbahgmm-ui\n\n\nlegacy\n\n\nlegacy\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-config\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-data\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-submit\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-rules\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-taskdata\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-utility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPIPELINE DEVELOPMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-spring-pipeline\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\nbahgmm-node-pipeline\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPipeline Test Stages\n\n\n\n\n\n\n\n\nServices\n\n\nUnit\n\n\nLint\n\n\nCoverage\n\n\nFunctional/UI\n\n\nIntegration\n\n\nEnd-to-End\n\n\n508\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-activiti\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-application\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-ui\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-config\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-data\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-submit\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-rules\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-taskdata\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-utility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPIPELINE DEVELOPMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-spring-pipeline\n\n\nyes\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-node-pipeline\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPipeline Security Stages\n\n\n\n\n\n\n\n\nServices\n\n\nCode Scan\n\n\nContainer Image\n\n\nEndpoint\n\n\nDB\n\n\nUI Crawler\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-activiti\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-application\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-ui\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-config\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-submit\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-rules\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-taskdata\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-svc-utility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPIPELINE DEVELOPMENT\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-spring-pipeline\n\n\nyes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbahgmm-node-pipeline\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOther repositories\n\n\nbahgmm-bpmn -- ?\n\nbahgmm-kafka -- kafka demo services\n\nbahgmm-svc1-- ? \n\nbahgmm-templates -- repository holding service templates", 
+            "title": "Service Dashboard"
         }, 
         {
-            "location": "/pipe-stat/#services-dashboard", 
+            "location": "/svc-dash/#service-dashboard", 
             "text": "", 
-            "title": "Services Dashboard"
+            "title": "Service Dashboard"
         }, 
         {
-            "location": "/pipe-stat/#deployment", 
-            "text": "Services  Declarative Pipeline  Dev  Test  Pre-Prod      bahgmm-svc-activiti  legacy  legacy      bahgmm-svc-application  legacy  legacy      bahgmm-ui  legacy  legacy      bahgmm-svc-data  yes  yes      bahgmm-svc-rules  yes  yes      bahgmm-svc-submit  yes  yes      bahgmm-svc-config  yes  yes      bahgmm-svc-utility        bahgmm-svc-taskdata  yes  yes      PIPELINE DEVELOPMENT        bahgmm-spring-pipeline  yes  yes      bahgmm-node-pipeline", 
+            "location": "/svc-dash/#deployment", 
+            "text": "Services  Declarative Pipeline  Dev  Test  Pre-Prod      bahgmm-svc-activiti  legacy  legacy      bahgmm-svc-application  legacy  legacy      bahgmm-ui  legacy  legacy      bahgmm-svc-config  yes  yes      bahgmm-svc-data  yes  yes      bahgmm-svc-submit  yes  yes      bahgmm-svc-rules  yes  yes      bahgmm-svc-taskdata  yes  yes      bahgmm-svc-utility        PIPELINE DEVELOPMENT        bahgmm-spring-pipeline  yes  yes      bahgmm-node-pipeline", 
             "title": "Deployment"
         }, 
         {
-            "location": "/pipe-stat/#pipeline-test-stages", 
-            "text": "Services  Unit  Lint  Coverage  Functional/UI  Integration  End-to-End  508      bahgmm-svc-activiti           bahgmm-svc-application           bahgmm-ui           bahgmm-svc-config  yes          bahgmm-svc-data  yes          bahgmm-svc-submit  yes          bahgmm-svc-taskdata  yes  yes         bahgmm-svc-utility           bahgmm-svc-rules  yes  yes         PIPELINE DEVELOPMENT           bahgmm-spring-pipeline  yes  yes         bahgmm-node-pipeline", 
+            "location": "/svc-dash/#pipeline-test-stages", 
+            "text": "Services  Unit  Lint  Coverage  Functional/UI  Integration  End-to-End  508      bahgmm-svc-activiti           bahgmm-svc-application           bahgmm-ui           bahgmm-svc-config  yes          bahgmm-svc-data  yes          bahgmm-svc-submit  yes          bahgmm-svc-rules  yes          bahgmm-svc-taskdata  yes  yes         bahgmm-svc-utility           PIPELINE DEVELOPMENT           bahgmm-spring-pipeline  yes  yes         bahgmm-node-pipeline", 
             "title": "Pipeline Test Stages"
         }, 
         {
-            "location": "/pipe-stat/#pipeline-security-stages", 
-            "text": "Services  Code Scan  Container Image  Endpoint  DB  UI Crawler      bahgmm-svc-activiti         bahgmm-svc-application         bahgmm-ui         bahgmm-svc-config         bahgmm-svc-data         bahgmm-svc-submit         bahgmm-svc-taskdata         bahgmm-svc-utility         bahgmm-svc-rules         PIPELINE DEVELOPMENT         bahgmm-spring-pipeline  yes        bahgmm-node-pipeline          Other repositories  bahgmm-bpmn -- ? \nbahgmm-kafka -- kafka demo services \nbahgmm-svc1-- ?  \nbahgmm-templates -- repository holding service templates", 
+            "location": "/svc-dash/#pipeline-security-stages", 
+            "text": "Services  Code Scan  Container Image  Endpoint  DB  UI Crawler      bahgmm-svc-activiti         bahgmm-svc-application         bahgmm-ui         bahgmm-svc-config         bahgmm-svc-data         bahgmm-svc-submit         bahgmm-svc-rules         bahgmm-svc-taskdata         bahgmm-svc-utility         PIPELINE DEVELOPMENT         bahgmm-spring-pipeline  yes        bahgmm-node-pipeline          Other repositories  bahgmm-bpmn -- ? \nbahgmm-kafka -- kafka demo services \nbahgmm-svc1-- ?  \nbahgmm-templates -- repository holding service templates", 
             "title": "Pipeline Security Stages"
         }, 
         {
@@ -74,6 +74,121 @@
             "location": "/dev-env/#request-access", 
             "text": "Request project access:   Go to  selfserviceportal.boozallencsn.com  Hit `Request Access``  Fill out the form, team:  JHT-ACCT-GROUP , project  GMM-Grants Management Modernization     Get your IP whitelisted   Send an email with your public ip to Brian or Arsenie to get Jenkins   openshift Access     Request bitbucket access (temporary)    After you are granted project or/and bitbucket access, configure github/bitbucket for ssh access (see github/bitbucket help articles on ssh keys)    Clone repositories", 
             "title": "Request Access:"
+        }, 
+        {
+            "location": "/dev-team/", 
+            "text": "DevOps Team\n\n\nThree Perspectives\n\n\n\n\nClient, as a proposal \u2192 slide deck\n\n\nTimebox driven \u2192 Step 1: Demo, Step 2: ???, Step 3 Profit\n\n\nInvestment \u2192 task list\n\n\n\n\nSLIDE DECK:\n\n\nGuiding Principles\n\n\n\n\nEverything as a Service - consume as is, do not have to worry about the internals\n\n\nEverything is Interchangeable - out of a box, replace pieces based on agency requirements\n\n\n[Across the Board] Visibility - transparency, into what?? (devops piplines, environments, dev status).  Visibility for checking the boxes, updated/automated governance\n\n\n\n\nFeatures Slide\n\n\n\n\nContinuous Integration and Deployment\n\n\nScalability and Performance\n-Fault Tolerance and Catastrophe-Preparedness\n\n\nSecurity and Monitoring\n\n\nGovernance and Monitoring\n\n\nDeployment to an Agency\n\n\n\n\nNOTE: Dev vs Ops perspectives (for each section talk about each perspective)\n\n\nContinuous Integration and Deployment\n\n\n\n\njenkins pipelines magic\n\n\n\n\nScalability and Performance\n\n\n\n\nopenshift and aws magic\n\n\n\n\nFault Tolerance and Catastrophe-Preparedness\n\n\n\n\n3 prongs: attempt to stay up, get back up, be able to see what went wrong\n\n\ntranslates to HA, scripting, and logging\n\n\n\n\nSecurity and Monitoring\n\n\n\n\nMonitoring\n\n\nElk Stack\n\n\nSecurity\n\n\nCode Scans\n\n\nImage Scans\n\n\nApp Scans\n\n\nDB Scans\n\n\nInfrastructure Scans\n\n\nLocking down the AWS console\n\n\n\n\nGovernance and Monitoring\n\n\n\n\nGovernance Suggestions\n\n\nTeam Roles\n\n\nCI/CD - pipeline architecture enforces software engineering processes/policies/regulations\n\n\nexample: failing builds on code coverage\n\n\nnavigation of the software change through the pipeline enforces ^\n\n\n\n\n\n\nOps\n\n\nMicroservice Documentation\n\n\nMicroservice Development Standards\n\n\nMonitoring\n\n\nPipeline Deployment Dashboard\n\n\nInfrastructure Health Dashboard\n\n\nnode alarms / notifications\n\n\nautomated response\n\n\n\n\n\n\nService Health Dashboard - performance contract\n\n\nDevelopment Dashboard - not in DevOps scope?\n\n\nMicroservice Production Readieness Dashboard\n\n\n\n\nDeployment to an Agency\n\n\n\n\nHow it affects current organization\n\n\nPolicy\n\n\nPeople\n\n\nInfrastructure\n\n\nUncategorized:\n\n\nbig bang vs in sections\n\n\nautomation vs manual, create efficiency?\n\n\nRetraining staff\n\n\nTie in change management staff (pipeline and monitoring dashboards)\n\n\n\n\n\n\nRolling out the DevOps Process\n\n\nPolicy\n\n\nPeople\n\n\nInfrastructure\n\n\nUncategorized:\n\n\nminimum viable product\n\n\nthen add lifecycle events (system governance) - proccess is the process, customize the pipeline, ability to have manual steps in the pipeline\n\n\nnotifications\n\n\ncustom tools, that are already at the agency\n\n\nperform recommended organizational changes\n\n\nprove that all of the boxes are checked, automated documentation and verification of these processes (automation of manual processes) - process re-engineering\n\n\nNOTE: Rollout can be it's own presentation\n\n\n\n\n\n\nDeployment Scripts\n\n\nHardened Images\n\n\nOn-boarding Guides\n\n\n\n\nTASK LIST:\n\n\nGuiding principles\n\n\n\n\nIt is not done until it's documented\n\n\n3 stages for each task: working, automated \n documented\n\n\n\n\nInfrastructure\n\n\n\n\nAdd users/permissions to openshift\n\n\nAdd users/permissions to jenkins\n\n\nreconfigure jenkins for HA\n\n\nScript deployments Jenkins and OS\n\n\nreconfigure jenkins \n OS to run on hardened images\n\n\nStand up UI test tools\n\n\nStand up Elk Stack\n\n\nSecurity - Infrastructure scanning, machine level (Open VAS)\n\n\nOpenshift Configuration\n\n\nConfigure Persistent Storage on Openshift\n\n\nConfigure pods to have health checks (liveness and readiness)\n\n\nConfigure DB access for local development (1. external to openshift, 2. external to aws)\n\n\nConfigure and standartize environment variable injection\n\n\nAdd a service account to openshift for jenkins jobs and configure openshift secret instead of token use\n\n\nIncrease buffer limit on git configuration if this error keeps showing up: \nfatal: The remote end hung up unexpectedly\n: http://stackoverflow.com/questions/6842687/the-remote-end-hung-up-unexpectedly-while-git-cloning\n\n\n\n\nDev Support - unplanned\n\n\n\n\nStand up \u2013 Kafka\n\n\nWrite Kafka Spring Adapter Object\n\n\nSet up new services (repos/pipelines/deployments) \u2013 config, rules, data, submit\n\n\nMigrate services in legacy pipeline state into new dev environment\n\n\nRedeploy Activiti service\n\n\nRedeploy Application service\n\n\nRedeploy UI\n\n\nStand up databases in the test environent\n\n\nScript database population with test data\n\n\n\n\nPipeline Development\n\n\n\n\nConfigure pernament token for pipeline deployment\n\n\nSet up barebones Spring Service Pipeline template\n\n\nSet up barebones NodeJS/Angular 2 (UI) template\n\n\nConfigure build trigger for openshift\n\n\nConfigure pull request settings in openshift and jenkins, lock down branch permissions\n\n\nConfigure deployment propagation to test environment\n\n\nConfigure deployment propagation to pre-prod environment\n\n\nConfigure pipeline to create new resources if they do not exist (oc new-app step)\n\n\nPipeline as a Service - automated provisioning of the development environments\n\n\nScript repository generation - Repository + Brach configuration\n\n\nPipeline Stage Development\n\n\nSecurity\n\n\nCode scanning stage (sonarcube)\n\n\nApplication Scanning (OWASP), front-end and fuzzing\n\n\nDB Scanning - SQL Injection/Fuzzing (SQL-MAP)\n\n\nDocker Image Scanning\n\n\n\n\n\n\nService Tests\n\n\nLint\n\n\nUnit\n\n\nIntegration\n\n\nEnd-to-end\n\n\n\n\n\n\nUI testing\n\n\nFigure out why we are getting \nyaml: line 3: mapping values are not allowed in this context\n when running oc new-app\n\n\n\n\nDevOps: Monitoring/Dashboard/Governance\n\n\n\n\nCome up with the feature plan for an Agency Demo\n\n\nCome up with the onboarding guide\n\n\nConfigure elk stack for service performance monitoring\n\n\nStand up a dashboard for microservice 'production readyness' status\n\n\nStability and Reliability\n\n\nScalability and Performance\n\n\nFault Tolerance and Catastrophe-Preparedness\n\n\nMonitoring\n\n\nDocumentation\n\n\nCome up with a documentation template for microservices\n\n\nCome up with infrastructure diagram - VM perspective\n\n\nDecide and Configure centralized DevOps documentation location\n\n\nPipeline Architecture documentation", 
+            "title": "DevOps Team"
+        }, 
+        {
+            "location": "/dev-team/#devops-team", 
+            "text": "", 
+            "title": "DevOps Team"
+        }, 
+        {
+            "location": "/dev-team/#three-perspectives", 
+            "text": "Client, as a proposal \u2192 slide deck  Timebox driven \u2192 Step 1: Demo, Step 2: ???, Step 3 Profit  Investment \u2192 task list", 
+            "title": "Three Perspectives"
+        }, 
+        {
+            "location": "/dev-team/#slide-deck", 
+            "text": "", 
+            "title": "SLIDE DECK:"
+        }, 
+        {
+            "location": "/dev-team/#guiding-principles", 
+            "text": "Everything as a Service - consume as is, do not have to worry about the internals  Everything is Interchangeable - out of a box, replace pieces based on agency requirements  [Across the Board] Visibility - transparency, into what?? (devops piplines, environments, dev status).  Visibility for checking the boxes, updated/automated governance", 
+            "title": "Guiding Principles"
+        }, 
+        {
+            "location": "/dev-team/#features-slide", 
+            "text": "Continuous Integration and Deployment  Scalability and Performance\n-Fault Tolerance and Catastrophe-Preparedness  Security and Monitoring  Governance and Monitoring  Deployment to an Agency", 
+            "title": "Features Slide"
+        }, 
+        {
+            "location": "/dev-team/#note-dev-vs-ops-perspectives-for-each-section-talk-about-each-perspective", 
+            "text": "", 
+            "title": "NOTE: Dev vs Ops perspectives (for each section talk about each perspective)"
+        }, 
+        {
+            "location": "/dev-team/#continuous-integration-and-deployment", 
+            "text": "jenkins pipelines magic", 
+            "title": "Continuous Integration and Deployment"
+        }, 
+        {
+            "location": "/dev-team/#scalability-and-performance", 
+            "text": "openshift and aws magic", 
+            "title": "Scalability and Performance"
+        }, 
+        {
+            "location": "/dev-team/#fault-tolerance-and-catastrophe-preparedness", 
+            "text": "3 prongs: attempt to stay up, get back up, be able to see what went wrong  translates to HA, scripting, and logging", 
+            "title": "Fault Tolerance and Catastrophe-Preparedness"
+        }, 
+        {
+            "location": "/dev-team/#security-and-monitoring", 
+            "text": "Monitoring  Elk Stack  Security  Code Scans  Image Scans  App Scans  DB Scans  Infrastructure Scans  Locking down the AWS console", 
+            "title": "Security and Monitoring"
+        }, 
+        {
+            "location": "/dev-team/#governance-and-monitoring", 
+            "text": "Governance Suggestions  Team Roles  CI/CD - pipeline architecture enforces software engineering processes/policies/regulations  example: failing builds on code coverage  navigation of the software change through the pipeline enforces ^    Ops  Microservice Documentation  Microservice Development Standards  Monitoring  Pipeline Deployment Dashboard  Infrastructure Health Dashboard  node alarms / notifications  automated response    Service Health Dashboard - performance contract  Development Dashboard - not in DevOps scope?  Microservice Production Readieness Dashboard", 
+            "title": "Governance and Monitoring"
+        }, 
+        {
+            "location": "/dev-team/#deployment-to-an-agency", 
+            "text": "How it affects current organization  Policy  People  Infrastructure  Uncategorized:  big bang vs in sections  automation vs manual, create efficiency?  Retraining staff  Tie in change management staff (pipeline and monitoring dashboards)    Rolling out the DevOps Process  Policy  People  Infrastructure  Uncategorized:  minimum viable product  then add lifecycle events (system governance) - proccess is the process, customize the pipeline, ability to have manual steps in the pipeline  notifications  custom tools, that are already at the agency  perform recommended organizational changes  prove that all of the boxes are checked, automated documentation and verification of these processes (automation of manual processes) - process re-engineering  NOTE: Rollout can be it's own presentation    Deployment Scripts  Hardened Images  On-boarding Guides", 
+            "title": "Deployment to an Agency"
+        }, 
+        {
+            "location": "/dev-team/#task-list", 
+            "text": "", 
+            "title": "TASK LIST:"
+        }, 
+        {
+            "location": "/dev-team/#guiding-principles_1", 
+            "text": "It is not done until it's documented  3 stages for each task: working, automated   documented", 
+            "title": "Guiding principles"
+        }, 
+        {
+            "location": "/dev-team/#infrastructure", 
+            "text": "Add users/permissions to openshift  Add users/permissions to jenkins  reconfigure jenkins for HA  Script deployments Jenkins and OS  reconfigure jenkins   OS to run on hardened images  Stand up UI test tools  Stand up Elk Stack  Security - Infrastructure scanning, machine level (Open VAS)  Openshift Configuration  Configure Persistent Storage on Openshift  Configure pods to have health checks (liveness and readiness)  Configure DB access for local development (1. external to openshift, 2. external to aws)  Configure and standartize environment variable injection  Add a service account to openshift for jenkins jobs and configure openshift secret instead of token use  Increase buffer limit on git configuration if this error keeps showing up:  fatal: The remote end hung up unexpectedly : http://stackoverflow.com/questions/6842687/the-remote-end-hung-up-unexpectedly-while-git-cloning", 
+            "title": "Infrastructure"
+        }, 
+        {
+            "location": "/dev-team/#dev-support-unplanned", 
+            "text": "Stand up \u2013 Kafka  Write Kafka Spring Adapter Object  Set up new services (repos/pipelines/deployments) \u2013 config, rules, data, submit  Migrate services in legacy pipeline state into new dev environment  Redeploy Activiti service  Redeploy Application service  Redeploy UI  Stand up databases in the test environent  Script database population with test data", 
+            "title": "Dev Support - unplanned"
+        }, 
+        {
+            "location": "/dev-team/#pipeline-development", 
+            "text": "Configure pernament token for pipeline deployment  Set up barebones Spring Service Pipeline template  Set up barebones NodeJS/Angular 2 (UI) template  Configure build trigger for openshift  Configure pull request settings in openshift and jenkins, lock down branch permissions  Configure deployment propagation to test environment  Configure deployment propagation to pre-prod environment  Configure pipeline to create new resources if they do not exist (oc new-app step)  Pipeline as a Service - automated provisioning of the development environments  Script repository generation - Repository + Brach configuration  Pipeline Stage Development  Security  Code scanning stage (sonarcube)  Application Scanning (OWASP), front-end and fuzzing  DB Scanning - SQL Injection/Fuzzing (SQL-MAP)  Docker Image Scanning    Service Tests  Lint  Unit  Integration  End-to-end    UI testing  Figure out why we are getting  yaml: line 3: mapping values are not allowed in this context  when running oc new-app", 
+            "title": "Pipeline Development"
+        }, 
+        {
+            "location": "/dev-team/#devops-monitoringdashboardgovernance", 
+            "text": "Come up with the feature plan for an Agency Demo  Come up with the onboarding guide  Configure elk stack for service performance monitoring  Stand up a dashboard for microservice 'production readyness' status  Stability and Reliability  Scalability and Performance  Fault Tolerance and Catastrophe-Preparedness  Monitoring  Documentation  Come up with a documentation template for microservices  Come up with infrastructure diagram - VM perspective  Decide and Configure centralized DevOps documentation location  Pipeline Architecture documentation", 
+            "title": "DevOps: Monitoring/Dashboard/Governance"
+        }, 
+        {
+            "location": "/sboot/", 
+            "text": "Set up a new repository: \nhttps://bitbucket.org/account/user/oneglobe/projects/BGM\n\n\nSelect Create Repository from Repositories menu.\n\n\nSelect oneglobe as owner.\n\n\nSelect bahgmm project.\n\n\nEnter service name in following format bahgmm-svc-[servicename]\n\n\nSelect Create Repository button\n\n\nCopy template files from bahgmm-templates\n\n\nCopy spring-template directory from bahgmm-templates\n\n\n\n\nModify dockerfile and pom file if needed\n\n\n\n\nEnsure that the POM file contains\n            \n[package].[main class name]\n in the properties section\n            and\n            \n[package].[main class name]\n in the maven-assembly-plugin section\n\n\nEnsure Dockerfile entry point jar matches the artifactId and version from the POM file\n\n\nConfigure the environment variables in the docker file\n\n\nTo enable tests ensure that the POM file contains\n            \n**/[main test class name].class\n\n                            and\n            \n${runSuite}\n in the maven-surefire-plugin section\n\n\n\n\n\n\n\n\nCreate Dev, Test, and Prod branches\n\n\n\n\n\n\nCreate new service in OpenShift\n\n\n\n\nRun \noc login\n from terminal\n\n\nLogin to openshift using OC tools\n\n\nRun \noc projects\n to view the list of available projects in openshift.\n\n\nRun \noc project \nprojectname\n to select desired project.\n\n\nRun \noc new-app https://ogjenkins:ogjenkins@bitbucket.org/oneglobe/[repositoryName].git --context-dir=[patToDockerfileFolder]\n to launch a new app\n\n\nExample: \noc new-app https://ogjenkins:ogjenkins@bitbucket.org/oneglobe/bahgmm-spring-pipeline.git --context-dir=spring-template\n\n\n\n\nNOTE: if you are getting the following error: \nyaml: line 3: mapping values are not allowed in this context\n\n\nAttempt to clone the repository locally,\n\ncd to the repository folder,\n\nrun \noc new-app .\n to generate resources using your local repo\n\nfrom openshift gui edit the newly created build configuration with the full repository link mentioned in steps above\n*start the build again from openshift\n\n\n\n\nCreate route for new service in OpenShift\n\n\nUse web browser to log into Openshift console \nhttps://master.gmm.bahincubator.com:8443\n\n\nSelect the desired project form the list of available projects.\n\n\nLocate and select the service name link for the services you wish to create the route for.\n\n\nOnce on the service details page select either the create route link located in the details section or select create route from the \nActions\n drop-down menu in the top right corner of the page.\n\n\n\n\nEnter the route in the \nHostname\n field in the following format \n[serviceName].apps.gmm.bahincubator.com\n and click the create button at the bottom of the page.\n\n\n\n\n\n\nCreate Jenkins job for new service\n\n\n\n\nLog into GMM jenkins: \nhttp://jenkins.gmm.bahincubator.com/\n\n\nSelect \nNew Item\n from the menu on the left side of the page.\n\n\nEnter a name for the service in the following format \nbahgmm-svc-[serviceName]\n.\n\n\nSelect \nMultibranch Pipline\n and click \nOK\n\n\nOnce on the configuration page enter a \nDisplay Name\n if desired.\n\n\nSelect the \nAdd source\n drop-down and select the appropriate source for your repository (in this case bitbucket)\n\n\nSelect \nogjenkins\n for the scan credentials\n\n\nEnter \noneglobe\n in the Owner field\n\n\nEnter the repository name in the Repository Name field\n\n\nSelect the Auto-register webhook checkbox\n\n\nClick Save to save the configuration and start the job", 
+            "title": "Setting Up a New SpringBoot Service"
+        }, 
+        {
+            "location": "/tools/", 
+            "text": "Install oc tools\n\n\n\n\nLogin to the master console \nhttps://master.gmm.bahincubator.com:8443/\n\n\nSelect the help icon (question mark) in the menu bar at the top of the page and select \nCommandline Tools\n\n\nSelect the latest release link at the top to of the page\n\n\nScroll down to the downloads portion of the page that opens and select the appropriate download for your operating system\n\n\nExtract download files to desired location\n\n\nFor windows only: add folder to system Path\n\n\nRun oc login from terminal\n\n\nEnter server info: \nhttps://master.gmm.bahincubator.com:8443/\n\n\nEnter username\n\n\nEnter password\n\n\nRun \noc project \nprojectname\n to select desired project.", 
+            "title": "Installing Tools"
+        }, 
+        {
+            "location": "/tools/#install-oc-tools", 
+            "text": "Login to the master console  https://master.gmm.bahincubator.com:8443/  Select the help icon (question mark) in the menu bar at the top of the page and select  Commandline Tools  Select the latest release link at the top to of the page  Scroll down to the downloads portion of the page that opens and select the appropriate download for your operating system  Extract download files to desired location  For windows only: add folder to system Path  Run oc login from terminal  Enter server info:  https://master.gmm.bahincubator.com:8443/  Enter username  Enter password  Run  oc project  projectname  to select desired project.", 
+            "title": "Install oc tools"
+        }, 
+        {
+            "location": "/scm/", 
+            "text": "", 
+            "title": "Configure Source Code Management"
         }
     ]
 }
