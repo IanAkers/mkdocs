@@ -14,7 +14,7 @@
 | bahgmm-svc-taskdata      | `yes`                | `yes`    ||
 | bahgmm-svc-utility       |                      |          ||
 | **PIPELINE DEVELOPMENT** ||||
-| bahgmm-spring-pipeline   | `yes`                | `yes`    ||
+| bahgmm-spring-pipeline   | `yes`                | `yes`    | `yes`| `yes` |
 | bahgmm-node-pipeline     |                      |          ||
 
 ## Pipeline Test Stages
