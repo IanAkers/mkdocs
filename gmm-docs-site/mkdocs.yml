@@ -11,9 +11,14 @@ repo_url: 'https://github.boozallencsn.com/JHT-ACCT-GROUP/bahgmm-docs'
 
 pages:
   - Home: 'index.md'
-  - Service Dashboard: svc-dash.md
-  - Features: features.md
-  - Dev Environment: dev-env.md
+  - Service Dashboard: 'svc-dash.md'
+  - Features: 'features.md'
+  - Dev Environment: 'dev-env.md'
+  - DevOps Team: 'dev-team.md'
+  - Setting Up a New SpringBoot Service: 'sboot.md'
+  - Installing Tools: 'tools.md'
+  - Configure Source Code Management: 'scm.md'
+
 
 markdown_extensions:
   - admonition

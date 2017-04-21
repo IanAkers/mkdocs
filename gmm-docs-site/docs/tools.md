@@ -1,0 +1,12 @@
+### Install oc tools
+- Login to the master console `https://master.gmm.bahincubator.com:8443/`
+- Select the help icon (question mark) in the menu bar at the top of the page and select `Commandline Tools`
+- Select the latest release link at the top to of the page
+- Scroll down to the downloads portion of the page that opens and select the appropriate download for your operating system
+- Extract download files to desired location
+  - For windows only: add folder to system Path
+- Run oc login from terminal
+- Enter server info: `https://master.gmm.bahincubator.com:8443/`
+  - Enter username
+  - Enter password
+  - Run `oc project <projectname>` to select desired project.

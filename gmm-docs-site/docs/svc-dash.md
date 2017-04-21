@@ -28,10 +28,10 @@
 | bahgmm-svc-data          | `yes`|               ||
 | bahgmm-svc-submit        | `yes`|               ||
 | bahgmm-svc-rules         | `yes`|      ||
-| bahgmm-svc-taskdata      | `yes`|          |         ||
+| bahgmm-svc-taskdata      | `yes`|    `yes`      |         ||
 | bahgmm-svc-utility       |                  |               ||
 | **PIPELINE DEVELOPMENT** |                  |               ||
-| bahgmm-spring-pipeline   | `yes`| `yes`              ||
+| bahgmm-spring-pipeline   |    `yes`         | `yes`              ||
 | bahgmm-node-pipeline     |                  |               ||
 
 ## Pipeline Security Stages
