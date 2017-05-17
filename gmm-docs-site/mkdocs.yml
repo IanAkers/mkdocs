@@ -19,7 +19,7 @@ pages:
   - Setting Up a New SpringBoot Service: 'sboot.md'
   - Installing Tools: 'tools.md'
   - Configure Source Code Management: 'scm.md'
-
+  - Openshift: 'openshift.md'
 
 markdown_extensions:
   - admonition
