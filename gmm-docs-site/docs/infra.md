@@ -9,9 +9,8 @@
 | bahgmm-openshift-node-0  | m4.xlarge    | OS Node   | |
 | bahgmm-openshift-node-1  | m4.xlarge    | OS Node   | |
 | bahgmm-openshift-node-2  | m4.xlarge    | OS Node   | |
-| bahgmm-openshift-utils   | m4.xlarge    | Tools Box | SonarQube, Arachni |
+| bahgmm-openshift-utils   | m4.xlarge    | Tools Box | Jenkins:`8080`, SonarQube:`9000`, Arachni |
 | bahgmm-devops-sandbox    | t2.medium    | Sandbox   | Simple Kafka |
-
 
 # OpenShift Projects
 

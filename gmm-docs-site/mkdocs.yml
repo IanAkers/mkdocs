@@ -12,15 +12,15 @@ repo_url: 'https://github.boozallencsn.com/JHT-ACCT-GROUP/bahgmm-docs'
 pages:
   - Home: 'index.md'
   - Infrastructure: 'infra.md'
+  - Openshift: 'openshift.md'
+  - Setting Up a New SpringBoot Service: 'sboot.md'
   - Service Dashboard: 'svc-dash.md'
   - Features: 'features.md'
   - Dev Environment: 'dev-env.md'
   - DevOps Team: 'dev-team.md'
-  - Setting Up a New SpringBoot Service: 'sboot.md'
   - Installing Tools: 'tools.md'
-  - Configure Source Code Management: 'scm.md'
-  - Openshift: 'openshift.md'
 
+  - Configure Source Code Management: 'scm.md'
 markdown_extensions:
   - admonition
   - codehilite(guess_lang=false)
