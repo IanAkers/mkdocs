@@ -19,7 +19,7 @@ pages:
   - Dev Environment: 'dev-env.md'
   - DevOps Team: 'dev-team.md'
   - Installing Tools: 'tools.md'
-
+  - Contributing to Documentation: 'docs.md'
   - Configure Source Code Management: 'scm.md'
 markdown_extensions:
   - admonition
